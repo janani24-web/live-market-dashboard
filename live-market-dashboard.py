@@ -34,3 +34,4 @@ if not display_df.empty:
 else:
     st.info("The dashboard is currently empty. Please add data via the sidebar.")
 
+
